@@ -64,7 +64,12 @@
    <h4>Ao acessar o console no navegador <code>http://127.0.0.1:4444/grid/console</code>, é possível ver os nós rodando:</h4> 
   
   ![setup-12](https://user-images.githubusercontent.com/12755484/118710046-2a07f580-b7f4-11eb-88b5-6bed64a5721a.png)
-
+ 
+ <div id="AutomacaoSeleniumSerenity" class="tabcontent">
+     <p><h3>5. Automação Selenium Web Serenity </h3></p>
+    <h4>Configurar o <code>serenity.properties</code></h4> 
+    <p><code>webdriver.remote.url= http://127.0.0.1:4444/wd/hub</code></p>
+  </div>
    
 
 
