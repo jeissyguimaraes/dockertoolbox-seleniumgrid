@@ -67,7 +67,7 @@
  
  <div id="AutomacaoSeleniumSerenity" class="tabcontent">
      <p><h3>5. Automação Selenium Web Serenity </h3></p>
-    <h4>Configurar o <code>serenity.properties</code></h4> 
+    <h4>Configurar o serenity.properties <code> webdriver.remote.url= http://127.0.0.1:4444/wd/hub </code></h4> 
   </div>
  
  ![setup-13](https://user-images.githubusercontent.com/12755484/118712405-20cc5800-b7f7-11eb-9a0e-077554979a01.png)
