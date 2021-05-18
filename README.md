@@ -12,7 +12,7 @@
   <div id="Setup" class="tabcontent">
      <p><h3>2. Setup Docker Toolbox </h3></p>
       <h4>2.1 Fazer a instalação do Docker Toolbox:</h4>
-      <p> Baixar o <b>docker-composer.yml</b>, esse arquivo contem a imagem do <b>Selenium Grid</b> e os nós <b>Chrome</b> e <b>FireFox</b></p>
+       ![](caminho até a imagem)
   </div>
 
 
