@@ -51,17 +51,17 @@
   
   ![setup-8](https://user-images.githubusercontent.com/12755484/118706661-06db4700-b7f0-11eb-8b2e-f5fc89dff562.png)
   
-   <p>O docker iniciará o pull das imagens e criação dos containers: </p>
-   
+   <h4>4.3 O docker iniciará o pull das imagens e criação dos containers:</h4> 
+ 
    ![setup-9](https://user-images.githubusercontent.com/12755484/118707447-ed86ca80-b7f0-11eb-8835-418db4618496.png)
 
    ![setup-10](https://user-images.githubusercontent.com/12755484/118707947-8289c380-b7f1-11eb-9ad6-fe952484d416.png)
    
-   <p> Ao finalizar, execute o comando <code>docker ps -a</code> para visualizar os containers executando:</p>
-   
+   <h4>4.4 Ao finalizar, execute o comando <code>docker ps -a</code> para visualizar os containers executando:</h4> 
+ 
    ![setup-11](https://user-images.githubusercontent.com/12755484/118708317-f4faa380-b7f1-11eb-9a75-60af7dffb385.png)
   
-   <p>Ao acessar o console <code>http://127.0.0.1:4444/grid/console</code> no navegador, é possível ver os nós rodando:</p>
+   <h4>Ao acessar o console <code>http://127.0.0.1:4444/grid/console</code> no navegador, é possível ver os nós rodando:</h4> 
   
   ![setup-12](https://user-images.githubusercontent.com/12755484/118710046-2a07f580-b7f4-11eb-88b5-6bed64a5721a.png)
 
