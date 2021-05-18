@@ -14,4 +14,5 @@
       <h4>2.1 Fazer a instalação do Docker Toolbox:</h4>
   </div>
   
-  ![setup-01](https://user-images.githubusercontent.com/12755484/118698906-5406eb00-b7e7-11eb-8e53-1683d241da1f.png)
+  ![setup-01](https://user-images.githubusercontent.com/12755484/118699980-8238fa80-b7e8-11eb-9baf-52d0687ba949.png)
+
