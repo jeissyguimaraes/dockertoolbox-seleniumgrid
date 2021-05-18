@@ -57,7 +57,7 @@
 
    ![setup-10](https://user-images.githubusercontent.com/12755484/118707947-8289c380-b7f1-11eb-9ad6-fe952484d416.png)
    
-   <p> Ao finalizar, execute o comando <code>docker ps -a para visualizar os containers executando:</code></p>
+   <p> Ao finalizar, execute o comando <code>docker ps -a</code> para visualizar os containers executando:</p>
    
    ![setup-11](https://user-images.githubusercontent.com/12755484/118708317-f4faa380-b7f1-11eb-9a75-60af7dffb385.png)
 
