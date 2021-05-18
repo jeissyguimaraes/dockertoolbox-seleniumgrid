@@ -36,19 +36,19 @@
 
    <div id="ConfiguracaoRedeVirtualbox" class="tabcontent">
      <p><h3>3. Configuração de rede virtualbox </h3></p>
-     <p>virtualbox deve ser configurada com as regras de redirecionamento de portas, acessar o menu na Virtualbox <b>configurações/Rede</b>:</p>
+     <h4>3.1 virtualbox deve ser configurada com as regras de redirecionamento de portas, acessar o menu na Virtualbox <b>configurações/Rede</b>: </h4>
      <p>1. Informar o endereço <b>IP do Hospedeiro</b>: 172.0.0.1:4444</p>
      <p>2. Informar o endereço <b>IP do Convidado</b>: 192.168.99.100:4444</p>
   </div>
     <div id="ConfiguracaoRedeVirtualbox" class="tabcontent">
      <p><h3>4. Executar comando Docker-compose </h3></p>
-     <p>Abra o terminal Quickstart e acesse o diretório onde está o <b>docker-composer.yml</b>:</p>
+     <h4>4.1 Abra o terminal Quickstart e acesse o diretório onde está o <b>docker-composer.yml</b>:</h4> 
   </div>
   
   ![setup-7](https://user-images.githubusercontent.com/12755484/118706982-5cafef00-b7f0-11eb-8758-ff470a4e5115.png)
 
-   <p>Execute o comando: <code>docker-compose up -d</code></p>
-   
+   <h4>4.2 Execute o comando: <code>docker-compose up -d</code></h4> 
+  
   ![setup-8](https://user-images.githubusercontent.com/12755484/118706661-06db4700-b7f0-11eb-8b2e-f5fc89dff562.png)
   
    <p>O docker iniciará o pull das imagens e criação dos containers: </p>
