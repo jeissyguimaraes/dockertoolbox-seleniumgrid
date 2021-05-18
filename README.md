@@ -16,3 +16,16 @@
   
   ![setup-01](https://user-images.githubusercontent.com/12755484/118699980-8238fa80-b7e8-11eb-9baf-52d0687ba949.png)
 
+  <p>:x: Desmarque a opção VirtualBox </p>
+  
+ ![setup-02](https://user-images.githubusercontent.com/12755484/118700458-130fd600-b7e9-11eb-9c1e-99014a61379d.png)
+
+   <h4>2.2 Fazer a instalação do Virtualbox:</h4>
+ 
+ ![setup-3](https://user-images.githubusercontent.com/12755484/118701404-0fc91a00-b7ea-11eb-9c72-01255b832d2e.png)
+
+ 
+ <div id="Setup" class="tabcontent">
+     <p><h3>2. Setup Docker Toolbox </h3></p>
+      <h4>2.1 Fazer a instalação do Docker Toolbox:</h4>
+  </div>
