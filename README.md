@@ -36,5 +36,8 @@
 
    <div id="Setup" class="tabcontent">
      <p><h3>3. Configuração de rede virtualbox </h3></p>
+     <p>virtualbox deve ser configurada com as regras de redirecionamento de portas, acessar o menu na Virtualbox <b>configurações/Rede</b>:</p>
+     <p>1. Informar o endereço <b>IP do Hospedeiro</b>: 172.0.0.1:4444</p>
+     <p>2. Informar o endereço <b>IP do Convidado</b>: 192.168.99.100:4444</p>
   </div>
   
