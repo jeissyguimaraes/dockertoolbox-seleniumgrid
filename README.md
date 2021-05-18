@@ -60,6 +60,10 @@
    <p> Ao finalizar, execute o comando <code>docker ps -a</code> para visualizar os containers executando:</p>
    
    ![setup-11](https://user-images.githubusercontent.com/12755484/118708317-f4faa380-b7f1-11eb-9a75-60af7dffb385.png)
+  
+   <p>Ao acessar o console <code>http://127.0.0.1:4444/grid/console</code> no navegador, é possível ver os nós rodando:</p>
+  
+  ![setup-12](https://user-images.githubusercontent.com/12755484/118710046-2a07f580-b7f4-11eb-88b5-6bed64a5721a.png)
 
    
 
