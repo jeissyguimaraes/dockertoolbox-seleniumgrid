@@ -12,7 +12,8 @@
   <div id="Setup" class="tabcontent">
      <p><h3>2. Setup Docker Toolbox </h3></p>
       <h4>2.1 Fazer a instalação do Docker Toolbox:</h4>
-      <img src ="https://github.com/Jeissy/dockertoolbox-seleniumgrid/blob/main/dockerToolbox-setup-01.png">
+     ![setup-01](https://user-images.githubusercontent.com/12755484/118698906-5406eb00-b7e7-11eb-8e53-1683d241da1f.png)
+
        
 
   </div>
