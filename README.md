@@ -24,8 +24,17 @@
  
  ![setup-3](https://user-images.githubusercontent.com/12755484/118701404-0fc91a00-b7ea-11eb-9c72-01255b832d2e.png)
 
- 
- <div id="Setup" class="tabcontent">
-     <p><h3>2. Setup Docker Toolbox </h3></p>
-      <h4>2.1 Fazer a instalação do Docker Toolbox:</h4>
+   <h4>2.3 Após a finalização da instalação, abrir o Quickstart Terminal: </h4>
+   
+  ![setup-4](https://user-images.githubusercontent.com/12755484/118702318-2b80f000-b7eb-11eb-923f-2ed7c9e55b28.png)
+
+   <p>Ao abrir o Quickstart, iniciará a criação da máquina virtual com o Docker configurado: </p>
+  
+  ![setup-5](https://user-images.githubusercontent.com/12755484/118703195-35572300-b7ec-11eb-8494-b5300c62c38e.png)
+  
+  ![setup-6](https://user-images.githubusercontent.com/12755484/118703339-5fa8e080-b7ec-11eb-84d0-d17c3d0c7202.png)
+
+   <div id="Setup" class="tabcontent">
+     <p><h3>3. Configuração de rede virtualbox </h3></p>
   </div>
+  
