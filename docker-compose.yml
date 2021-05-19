@@ -1,3 +1,22 @@
+db: 
+  environment: 
+    - MYSQL_ROOT_PASSWORD=root
+    - MYSQL_DATABASE=bugtracker
+    - MYSQL_USER=mantisbt
+    - MYSQL_PASSWORD=mantisbt
+  image: mariadb
+  ports: 
+    - "3306:3306"
+  restart: always
+
+mantisbt: 
+  image: "vimagick/mantisbt:latest"
+  links: 
+    - db
+  ports: 
+    - "8989:80"
+  restart: always
+
 selenium-hub:
   image: selenium/hub
   container_name: selenium-hub
